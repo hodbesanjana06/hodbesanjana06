@@ -1,8 +1,7 @@
 # Hi 👋 I'm Sanjana Hodbe
 
-💻 BCA Graduate | Django Developer
-🚀 Python | APIs | Automation | Web Development
-
+💻 Entry-Level Software Developer  
+🚀 Skilled in Python | Web Development | API Integration  | Problem Solving
 ---
 
 ## 🔹 Projects
