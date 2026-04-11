@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sanjana Hodbe
 
-💻 Entry-Level Software Developer
+💻 Entry-Level Software Developer ---
     Skilled in Python | Web Development | API Integration | Problem Solving
 ---
 
