@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Sanjana Hodbe
 
-<!--
-**hodbesanjana06/hodbesanjana06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BCA Graduate | Django Developer
+🚀 Python | APIs | Automation | Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Projects
+
+* Vehicle Service Reminder System
+* Tailor Management System
+
+---
+
+## 🔹 Skills
+
+* Python, JavaScript, C++
+* Django, Bootstrap, Selenium
+* MySQL, SQLite
+
+---
+
+## 🔹 Currently Learning
+
+* Data Structures & Algorithms
+* REST APIs
+
+---
+
+## 📫 Contact
+
+* Email: [hodbesanjana@gmail.com](mailto:hodbesanjana@gmail.com)
+* LinkedIn: https://linkedin.com/in/sanjana-hodbe
