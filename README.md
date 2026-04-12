@@ -33,6 +33,3 @@ I like to build small projects and improve daily
 
 * Email: [hodbesanjana@gmail.com](mailto:hodbesanjana@gmail.com)
 * LinkedIn: https://linkedin.com/in/sanjana-hodbe
-
----
- Learning step by step and growing every day
