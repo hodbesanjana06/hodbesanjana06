@@ -1,11 +1,9 @@
-# Hi 👋 I'm Sanjana Hodbe
+# Hi I'm Sanjana Hodbe
 
-💻 BCA Graduate | Entry-Level Software Developer  
-    Python | Web Development | Problem Solving  
-## 🔹 Projects
 
-* Vehicle Service Reminder System
-* Tailor Management System
+I am a fresher and learning software development  
+Currently learning DSA and Web Development  
+I like to build small projects and improve daily  
 
 ---
 
@@ -16,11 +14,18 @@
 * MySQL, SQLite
 
 ---
+## 🔹 My Projects
 
-## 🔹 Currently Learning
+### Vehicle Service Reminder System
+- Add vehicle details  
+- Book service  
+- Get reminder for next service  
+- Built using Django  
 
-* Data Structures & Algorithms
-* REST APIs
+### GitHub Profile Finder
+- Search GitHub users  
+- Show profile details like followers, repos  
+- Built using HTML, CSS, JavaScript  
 
 ---
 
@@ -28,3 +33,6 @@
 
 * Email: [hodbesanjana@gmail.com](mailto:hodbesanjana@gmail.com)
 * LinkedIn: https://linkedin.com/in/sanjana-hodbe
+
+---
+ Learning step by step and growing every day
