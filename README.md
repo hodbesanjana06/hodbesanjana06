@@ -1,7 +1,7 @@
 # Hi I'm Sanjana Hodbe
 
 
-I am a fresher and learning software development  
+I am a fresher   
 Currently learning DSA and Web Development  
 I like to build small projects and improve daily  
 
